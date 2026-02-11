@@ -35,4 +35,4 @@ python_version = "3.12"
 
 [scripts]
 test = "pytest --disable-warnings -v"
-erm = "python axionix.py"
+axionix = "python axionix.py"
